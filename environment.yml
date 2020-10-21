@@ -4,10 +4,10 @@ channels:
 dependencies:
   - scipy
   - imageio
-  - pytorch
   - numpy
   - python=3.8
   - tqdm
   - matplotlib
+  - seaborn
   - jupyterlab
   - mdp
