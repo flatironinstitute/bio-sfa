@@ -1,0 +1,13 @@
+name: biosfa
+channels:
+  - defaults
+dependencies:
+  - scipy
+  - imageio
+  - pytorch
+  - numpy
+  - python=3.8
+  - tqdm
+  - matplotlib
+  - jupyterlab
+  - mdp
