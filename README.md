@@ -14,4 +14,5 @@ The images [2] in `data/` are copyrighted (c) Janne Sinkkonen 1994, 1995, 1996, 
 
 
 [1]: D. Lipshutz, C. Windolf, S. Golkar, and D.B. Chklovskii, "A biologically plausible neural network for Slow Feature Analysis", Advances in Neural Information Processing (NeurIPS 2020).
+
 [2]: A. Hyvärinen, J. Karhunen, and E. Oja, “Independent Component Analysis,” Adaptive and Learning Systems for Signal Processing, Communications, and Control. John Wiley & Sons, Inc., 21-May-2001 [Online]. Available: http://dx.doi.org/10.1002/0471221317 
