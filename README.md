@@ -1,6 +1,6 @@
 # bio-sfa
 
-Code for reproducing the experiment from [1]
+Code for reproducing experiments from [1].
 
 To run:
 
